@@ -1,5 +1,16 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Glimmer0x&show_icons=true&theme=dark)
+<h2 align="center">👋 Hello! I'm Glimmer.</h2>
+<p align="center">
+  <a href="">Blog</a> •
+  <a href="https://twitter.com/glimmerllx">Twitter</a>
+</p>
 
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kity2023&show_icons=true&theme=dark)
+- 🔭 I’m currently Master's student at [Northeastern University](https://www.northeastern.edu/)
+- 🌱 I’m currently learning more on full stack techniques and better DevOps practices
+- 💬 Ask me about **Git, Python, Java, Machine Learning and Block Chain**
+- 📫 How to reach me: [@Glimmerllx](https://twitter.com/glimmerllx) on Twitter
+- ⚡ Fun fact: Big Fan of the OverWatch 2
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glimmer0x&show_icons=true&theme=dark)
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
