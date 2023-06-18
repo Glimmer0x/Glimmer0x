@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/glimmer0x/">LinkedIn</a>
 </p>
 
-
 - 🔭 I’m currently Master's student at [Northeastern University](https://www.northeastern.edu/)
 - 🌱 I’m currently learning Next.js, Rust and Go
 - 💬 Ask me about **Git, Python, Java, Machine Learning and Block Chain**
@@ -16,7 +15,6 @@ I am a xxx.
 
 #### 🏆 Awards and Achievements
 - Won 1st place in xxx
-
 
 #### 📫 Like to meet me?
 
@@ -67,5 +65,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2023 09:05:59 UTC
+ Last Updated on 18/06/2023 09:04:51 UTC
 <!--END_SECTION:waka-->
