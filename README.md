@@ -8,25 +8,25 @@
 - 🔭 I’m currently Master's student at [Northeastern University](https://www.northeastern.edu/)
 - 🌱 I’m currently learning Next.js, Rust and Go
 - 💬 Ask me about **Git, Python, Java, Machine Learning and Block Chain**
-- 📫 How to reach me: [@Glimmerllx](https://twitter.com/glimmerllx) on Twitter
 - ⚡ Fun fact: Grandmaster at OverWatch 2
 
 
-### ✨&nbsp; More About Me
+### ✨&nbsp; A More About Me
 I am a xxx.
 
-#### Awards and Achievements
+#### 🏆 Awards and Achievements
 - Won 1st place in xxx
 
-### 📫 Like to meet me?
+
+#### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
 <a href="https://calendly.com/liangxi/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-👇 Hit in your console or terminal to connect with me.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-📊 **Weekly development breakdown**
+#### 🤗 My Coding Life
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%208%20mins-blue)
 
