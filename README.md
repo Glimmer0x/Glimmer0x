@@ -28,7 +28,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -100,5 +100,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Glimmer0x/Glimmer0x/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2023 08:37:14 UTC
+ Last Updated on 18/06/2023 08:37:52 UTC
 <!--END_SECTION:waka-->
