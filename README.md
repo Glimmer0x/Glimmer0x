@@ -10,7 +10,7 @@
 - 💬 Ask me about **Git, Python, Java, Machine Learning and Block Chain**
 - ⚡ Fun fact: Grandmaster at OverWatch 2
 
-
+---
 ### ✨&nbsp; A More About Me
 I am a xxx.
 
@@ -26,7 +26,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-#### 🤗 My Coding Life
+---
+### 🤗 My Coding Life
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%2022%20mins-blue)
 
