@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Grandmaster at OverWatch 2
 
 ---
-### ✨&nbsp; A More About Me
+### ✨&nbsp; A Little More About Me
 I am a xxx.
 
 #### 🏆 Awards and Achievements
