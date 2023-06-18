@@ -1,8 +1,10 @@
 <h2 align="center">👋 Hello! I'm Glimmer.</h2>
 <p align="center">
   <a href="">Blog</a> •
-  <a href="https://twitter.com/glimmerllx">Twitter</a>
+  <a href="https://twitter.com/glimmerllx">Twitter</a> •
+  <a href="https://www.linkedin.com/in/glimmer0x/">LinkedIn</a>
 </p>
+
 
 - 🔭 I’m currently Master's student at [Northeastern University](https://www.northeastern.edu/)
 - 🌱 I’m currently learning more on Full Stack techniques and better DevOps practices
