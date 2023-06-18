@@ -30,15 +30,20 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2023 - To: 18 June 2023
+From: 06 February 2022 - To: 18 June 2023
 
-Total Time: 7 hrs 50 mins
+Total Time: 983 hrs 56 mins
 
-Java          3 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.77 %
-Python        3 hrs           █████████▓░░░░░░░░░░░░░░░   38.25 %
-Markdown      38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-YAML          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-JavaScript    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+TeX                        183 hrs 8 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+Python                     176 hrs 5 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Java                       141 hrs 30 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+JavaScript                 103 hrs 42 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+Solidity                   95 hrs 57 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+TypeScript                 39 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Markdown                   33 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+CSS                        33 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+HTML                       23 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Terraform                  22 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
