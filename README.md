@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Master's student at [Northeastern University](https://www.northeastern.edu/)
 - 🌱 I’m currently learning Next.js, Rust and Go
-- 😘 My dream is: `while (True) { age += 1; money << 1; }`
+- 😘 My dream is: `while (true) { age += 1; money << 1; }`
 - 💬 Ask me about **Git, Python, Java, Machine Learning and Block Chain**
 - ⚡ Fun fact: Grandmaster at OverWatch 2
 
