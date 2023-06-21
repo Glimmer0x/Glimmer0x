@@ -6,15 +6,24 @@
 
 - 🔭 I’m currently Master's student at [Northeastern University](https://www.northeastern.edu/)
 - 🌱 I’m currently learning Next.js, Rust and Go
+- 😘 My dream is: `while (True) { age += 1; money << 1; }`
 - 💬 Ask me about **Git, Python, Java, Machine Learning and Block Chain**
 - ⚡ Fun fact: Grandmaster at OverWatch 2
 
 ---
 ### ✨&nbsp; A Little More About Me
-I am a xxx.
+In recent years, I have been working as a machine learning researcher and backend developer. 
+
+I have developed a method for approximating the inverse of the sum of Kronecker products. This method is particularly useful in calculating the covariance of Gaussian mixture models and significantly reduces the approximation error compared to traditional approaches.
+
+Additionally, I had the opportunity to work in a crypto startup where I played a key role in building a crypto information platform that attracted over ten thousand daily active users.
+
+Feel free to ask me anything else!
 
 #### 🏆 Awards and Achievements
-- Won 1st place in xxx
+- Won the 1st. Prize of the Go Plus Challenge at ETH Denver Hackathon, 2023
+- Climbing Program Special Innovation funds, awarded by Guangdong Province at 2018
+- Won 2nd. Prize of Student Supercomputer Challenge, awarded by Asia Supercomputer Community at 2018
 
 ---
 ### 🤗 My Coding Life
