@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C032%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -46,11 +46,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 13 mins       █████████████░░░░░░░░░░░░   52.36 % 
-Solidity                 2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Python                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Vue.js                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+TypeScript               8 hrs 26 mins       ███████████████░░░░░░░░░░   60.55 % 
+Solidity                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Python                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +66,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2023 00:24:01 UTC
+ Last Updated on 19/07/2023 00:34:09 UTC
 <!--END_SECTION:waka-->
