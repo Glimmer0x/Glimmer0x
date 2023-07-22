@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -46,11 +46,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 16 mins       █████████████████░░░░░░░░   66.98 % 
-Solidity                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Python                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               7 hrs 46 mins       ███████████████████░░░░░░   76.49 % 
+Python                   1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +66,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2023 00:17:16 UTC
+ Last Updated on 22/07/2023 00:17:09 UTC
 <!--END_SECTION:waka-->
