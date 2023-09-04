@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -46,8 +46,9 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              ████████████████░░░░░░░░░   65.41 % 
-TeX                      4 mins              █████████░░░░░░░░░░░░░░░░   34.59 % 
+Python                   9 mins              ████████████░░░░░░░░░░░░░   48.34 % 
+JSON                     5 mins              ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+TeX                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +64,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2023 00:15:59 UTC
+ Last Updated on 04/09/2023 00:15:35 UTC
 <!--END_SECTION:waka-->
