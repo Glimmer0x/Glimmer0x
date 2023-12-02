@@ -16,7 +16,7 @@ In recent years, I have been working as a machine learning researcher and backen
 
 I have developed a method for approximating the inverse of the sum of Kronecker products. This method is particularly useful in calculating the covariance of Gaussian mixture models and significantly reduces the approximation error compared to traditional approaches.
 
-Additionally, I had the opportunity to work in a crypto startup where I played a key role in building a crypto information platform that attracted over ten thousand daily active users.
+Additionally, I was a co-founder in a crypto startup where I built a crypto information platform that attracted over ten thousand daily active users.
 
 Feel free to ask me anything else!
 
