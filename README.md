@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C581%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C582%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -46,11 +46,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.91 % 
-Jupyter                  4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-CSV/TSV                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Python                   6 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+TypeScript               2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Jupyter                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+CSV/TSV                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +66,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2024 00:15:54 UTC
+ Last Updated on 01/05/2024 00:17:51 UTC
 <!--END_SECTION:waka-->
