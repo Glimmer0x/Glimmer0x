@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C682%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C683%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -46,8 +46,8 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 13 mins       █████████████████████░░░░   83.08 % 
-Jupyter                  1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Python                   7 hrs 24 mins       ██████████████████████░░░   88.02 % 
+Jupyter                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +63,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2024 00:17:00 UTC
+ Last Updated on 07/07/2024 00:19:35 UTC
 <!--END_SECTION:waka-->
