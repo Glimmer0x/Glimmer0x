@@ -46,8 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 50 mins       ████████████████████████░   97.32 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python                   1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +62,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2024 00:20:23 UTC
+ Last Updated on 12/08/2024 00:19:09 UTC
 <!--END_SECTION:waka-->
