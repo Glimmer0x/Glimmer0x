@@ -46,7 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Python                   29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2024 00:18:20 UTC
+ Last Updated on 17/08/2024 00:17:43 UTC
 <!--END_SECTION:waka-->
