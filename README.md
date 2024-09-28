@@ -46,7 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Other                    3 mins              █████████████████████████   100.00 % 
+Other                    8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2024 00:20:48 UTC
+ Last Updated on 28/09/2024 00:20:14 UTC
 <!--END_SECTION:waka-->
