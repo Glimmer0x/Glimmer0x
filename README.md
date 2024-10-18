@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C708%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -46,9 +46,9 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 54 mins       ████████████████████████░   95.25 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               6 hrs 31 mins       ████████████████████████░   96.38 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +64,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2024 00:20:49 UTC
+ Last Updated on 18/10/2024 00:20:39 UTC
 <!--END_SECTION:waka-->
