@@ -46,9 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 43 mins        ████████████████████████░   97.32 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +62,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2025 00:21:44 UTC
+ Last Updated on 06/03/2025 00:21:55 UTC
 <!--END_SECTION:waka-->
