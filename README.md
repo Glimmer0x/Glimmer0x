@@ -28,9 +28,28 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                53 commits          ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+🌆 Daytime                54 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+🌃 Evening                41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+🌙 Night                  74 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 15 mins       ██████████████████████░░░   89.52 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -45,5 +64,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 00:22:51 UTC
+ Last Updated on 04/05/2025 00:26:04 UTC
 <!--END_SECTION:waka-->
