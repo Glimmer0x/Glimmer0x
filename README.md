@@ -46,8 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 30 mins        █████████████████████████   99.61 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown                 1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +62,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2025 00:24:44 UTC
+ Last Updated on 05/06/2025 00:24:21 UTC
 <!--END_SECTION:waka-->
