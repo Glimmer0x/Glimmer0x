@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -46,10 +46,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 39 mins        █████████████████████░░░░   83.56 % 
-JSON                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               3 hrs 56 mins       ███████████████████░░░░░░   76.53 % 
+JSON                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +66,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 00:24:17 UTC
+ Last Updated on 13/06/2025 00:24:47 UTC
 <!--END_SECTION:waka-->
