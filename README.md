@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -46,11 +46,9 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 49 mins       ██████████████████░░░░░░░   70.92 % 
-Markdown                 2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               8 hrs 4 mins        ██████████████████████░░░   87.83 % 
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,5 +64,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2025 00:27:32 UTC
+ Last Updated on 08/08/2025 00:27:33 UTC
 <!--END_SECTION:waka-->
