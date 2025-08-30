@@ -46,8 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 mins             ███████████████████░░░░░░   76.55 % 
-CSV                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,5 +62,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 00:23:50 UTC
+ Last Updated on 30/08/2025 00:22:34 UTC
 <!--END_SECTION:waka-->
