@@ -32,23 +32,6 @@ Feel free to ask me anything else!
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌆 Daytime                54 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-🌃 Evening                41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌙 Night                  92 commits          ██████████░░░░░░░░░░░░░░░   38.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -62,5 +45,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2025 00:23:36 UTC
+ Last Updated on 27/09/2025 00:22:38 UTC
 <!--END_SECTION:waka-->
