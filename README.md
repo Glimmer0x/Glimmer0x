@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -46,10 +46,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Docker                   40 mins             ██████████████████████░░░   87.29 % 
-C++                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+C++                      2 hrs 10 mins       ██████████████░░░░░░░░░░░   56.97 % 
+Bash                     54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Docker                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,5 +66,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2025 00:24:31 UTC
+ Last Updated on 22/10/2025 00:25:20 UTC
 <!--END_SECTION:waka-->
