@@ -46,9 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Other                    34 mins             ██████████████░░░░░░░░░░░   55.03 % 
-C++                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Python                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -64,5 +62,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 00:25:21 UTC
+ Last Updated on 14/11/2025 00:25:48 UTC
 <!--END_SECTION:waka-->
