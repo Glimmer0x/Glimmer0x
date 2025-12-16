@@ -46,7 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        █████████████████████████   100.00 % 
+Markdown                 20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 00:28:10 UTC
+ Last Updated on 16/12/2025 00:26:21 UTC
 <!--END_SECTION:waka-->
