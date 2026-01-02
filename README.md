@@ -30,7 +30,7 @@ Feel free to ask me anything else!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C081%20hrs%2024%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.28%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -46,8 +46,8 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 31 mins       ██████████████░░░░░░░░░░░   55.76 % 
-Markdown                 2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.21 % 
+Python                   3 hrs 46 mins       ██████████████░░░░░░░░░░░   57.51 % 
+Markdown                 2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -64,5 +64,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 00:30:10 UTC
+ Last Updated on 02/01/2026 00:26:48 UTC
 <!--END_SECTION:waka-->
