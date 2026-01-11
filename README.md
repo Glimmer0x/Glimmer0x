@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,8 +46,9 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 21 mins        █████████████████████░░░░   82.33 % 
-Swift                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 1 hr 21 mins        ██████████████░░░░░░░░░░░   55.91 % 
+Swift                    1 hr 4 mins         ███████████░░░░░░░░░░░░░░   44.02 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +64,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2026 00:25:52 UTC
+ Last Updated on 11/01/2026 00:29:47 UTC
 <!--END_SECTION:waka-->
