@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C135%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,11 +46,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.27 % 
-Docker                   3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Python                   2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Swift                    2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-JSON                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Markdown                 11 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.56 % 
+Swift                    3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Docker                   2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +66,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 00:27:26 UTC
+ Last Updated on 29/01/2026 00:30:47 UTC
 <!--END_SECTION:waka-->
