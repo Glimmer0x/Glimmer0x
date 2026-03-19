@@ -46,7 +46,7 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2026 00:34:30 UTC
+ Last Updated on 19/03/2026 00:34:45 UTC
 <!--END_SECTION:waka-->
