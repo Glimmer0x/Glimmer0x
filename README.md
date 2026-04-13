@@ -28,7 +28,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C149%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C152%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,25 +46,25 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.95 % 
-Rust                     1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   31.10 % 
-Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-TOML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Rust                     3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Other                    2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
+Markdown                 2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+TOML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 12/04/2026 00:41:27 UTC
+ Last Updated on 13/04/2026 00:42:10 UTC
 <!--END_SECTION:waka-->
