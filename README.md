@@ -4,8 +4,7 @@
   <a href="https://www.linkedin.com/in/glimmer0x/">LinkedIn</a>
 </p>
 
-- 🔭 I’m currently Master's student at [Northeastern University](https://www.northeastern.edu/)
-- 🌱 I’m currently learning Next.js, Rust and Go
+- 🔭 I was Master's student at [Northeastern University](https://www.northeastern.edu/)
 - 😘 My dream is: `while (true) { age += 1; money << 1; }`
 - 💬 Ask me about **Git, Python, Java, Machine Learning and Block Chain**
 - ⚡ Fun fact: Grandmaster at OverWatch 2
