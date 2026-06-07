@@ -27,7 +27,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C290%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C302%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,11 +45,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.63 % 
-TypeScript               4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Rust                     2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Other                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Markdown                 11 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.05 % 
+TypeScript               5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Rust                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,5 +65,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 00:56:01 UTC
+ Last Updated on 07/06/2026 01:01:29 UTC
 <!--END_SECTION:waka-->
