@@ -27,7 +27,7 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C314%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C315%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,23 +45,23 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 54 mins       █████████████████████░░░░   84.06 % 
-Other                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Markdown                 7 hrs 38 mins       ██████████████████████░░░   89.32 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Python** 
 
 ```text
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 16/06/2026 01:10:19 UTC
+ Last Updated on 17/06/2026 01:04:46 UTC
 <!--END_SECTION:waka-->
