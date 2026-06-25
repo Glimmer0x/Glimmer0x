@@ -45,25 +45,25 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 51 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
-Python                   32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Other                    31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-YAML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 42 mins             █████████████░░░░░░░░░░░░   53.07 % 
+Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 24/06/2026 00:53:02 UTC
+ Last Updated on 25/06/2026 00:57:28 UTC
 <!--END_SECTION:waka-->
