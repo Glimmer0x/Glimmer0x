@@ -45,11 +45,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 44 mins      ████████████████████░░░░░   81.08 % 
-Rust                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Markdown                 6 hrs 34 mins       ██████████████████████░░░   87.89 % 
+Rust                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +65,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 03:39:41 UTC
+ Last Updated on 07/07/2026 03:31:07 UTC
 <!--END_SECTION:waka-->
