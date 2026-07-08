@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hello! I'm Glimmer.</h2>
 <p align="center">
-  <a href="https://twitter.com/glimmerllx">Twitter</a> •
-  <a href="https://www.linkedin.com/in/glimmer0x/">LinkedIn</a>
+  <a href="https://twitter.com/glimmerllx">Twitter</a>
 </p>
 
 - 🔭 I was Master's student at [Northeastern University](https://www.northeastern.edu/)
