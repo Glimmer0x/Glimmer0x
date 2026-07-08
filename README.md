@@ -1,7 +1,4 @@
 <h2 align="center">👋 Hello! I'm Glimmer.</h2>
-<p align="center">
-  <a href="https://twitter.com/glimmerllx">Twitter</a>
-</p>
 
 - 🔭 I was Master's student at [Northeastern University](https://www.northeastern.edu/)
 - 😘 My dream is: `while (true) { age += 1; money << 1; }`
