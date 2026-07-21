@@ -23,17 +23,17 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C374%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C380%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.44%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-🌆 Daytime                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-🌃 Evening                273 commits         ███████████████░░░░░░░░░░   58.71 % 
-🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+🌆 Daytime                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+🌃 Evening                275 commits         ███████████████░░░░░░░░░░   58.89 % 
+🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 
 
@@ -41,11 +41,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 39 mins      █████████████░░░░░░░░░░░░   50.86 % 
-Other                    5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-JavaScript               4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Markdown                 14 hrs 22 mins      ████████████░░░░░░░░░░░░░   49.05 % 
+Other                    7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+JavaScript               5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 **I Mostly Code in Python** 
@@ -61,5 +61,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 03:18:37 UTC
+ Last Updated on 21/07/2026 02:47:04 UTC
 <!--END_SECTION:waka-->
