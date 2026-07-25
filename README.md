@@ -23,15 +23,17 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C465%20hrs%2033%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.44%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-🌆 Daytime                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-🌃 Evening                283 commits         ███████████████░░░░░░░░░░   59.33 % 
-🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌆 Daytime                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌃 Evening                289 commits         ███████████████░░░░░░░░░░   59.71 % 
+🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 ```
 
 
@@ -39,11 +41,11 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 hrs 7 mins       ██████████████░░░░░░░░░░░   54.88 % 
-Other                    8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-JavaScript               6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Markdown                 23 hrs 38 mins      ███████████████░░░░░░░░░░   60.36 % 
+Other                    8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+JavaScript               4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,5 +61,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:45:57 UTC
+ Last Updated on 25/07/2026 02:44:26 UTC
 <!--END_SECTION:waka-->
