@@ -23,17 +23,19 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C482%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.44%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%209%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-🌆 Daytime                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-🌃 Evening                293 commits         ███████████████░░░░░░░░░░   60.04 % 
-🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+🌞 Morning                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+🌆 Daytime                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌃 Evening                301 commits         ███████████████░░░░░░░░░░   60.44 % 
+🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 ```
 
 
@@ -41,11 +43,34 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 21 hrs 28 mins      ██████████████░░░░░░░░░░░   57.81 % 
-Other                    7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-JavaScript               4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Rust                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Markdown                 20 hrs 33 mins      ████████████░░░░░░░░░░░░░   46.14 % 
+JavaScript               10 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Other                    6 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Python                   2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 44 hrs 32 mins (100.0%)
+
+✍️ 74,065 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,676,431,834 Input Tokens, 20,001,384 Output Tokens
+
+💵 $27126.71 Estimated AI Cost This Week
+
+🧠 257 AI Sessions, 1021 AI Prompts
+
+GPT                      66,411 lines        ███████████████████████░░   90.97 % 
+Opus                     6,589 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,376 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -61,5 +86,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:19:38 UTC
+ Last Updated on 28/07/2026 02:37:08 UTC
 <!--END_SECTION:waka-->
