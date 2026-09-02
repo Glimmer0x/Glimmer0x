@@ -23,19 +23,19 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C941%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C960%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-954%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-975%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.34%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime                383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-🌃 Evening                1304 commits        ███████████░░░░░░░░░░░░░░   44.20 % 
-🌙 Night                  968 commits         ████████░░░░░░░░░░░░░░░░░   32.81 % 
+🌞 Morning                315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌆 Daytime                424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌃 Evening                1380 commits        ███████████░░░░░░░░░░░░░░   43.67 % 
+🌙 Night                  1041 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
 ```
 
 
@@ -43,32 +43,30 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 136 hrs 24 mins     ██████████████████████░░░   88.99 % 
-Other                    15 hrs 31 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-JSON                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 144 hrs 2 mins      ███████████████████████░░   91.08 % 
+Other                    13 hrs 56 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 153 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 158 hrs 9 mins (100.0%)
 
-✍️ 3,620 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,176 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,689,090 Input Tokens, 1,199,421 Output Tokens
+🔤 12,377,949 Input Tokens, 717,169 Output Tokens
 
-💵 $237.07 Estimated AI Cost This Week
+💵 $174.30 Estimated AI Cost This Week
 
-🧠 5525 AI Sessions, 7206 AI Prompts
+🧠 4786 AI Sessions, 6341 AI Prompts
 
-GPT                      3,819 lines         █████████████████████████   100.00 % 
+GPT                      2,524 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
+📝 Concise Prompter — average 50 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -76,15 +74,15 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 01/09/2026 04:01:22 UTC
+ Last Updated on 02/09/2026 03:31:58 UTC
 <!--END_SECTION:waka-->
