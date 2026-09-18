@@ -23,19 +23,19 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C273%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C286%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C306%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C319%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.15%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                946 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-🌆 Daytime                2210 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-🌃 Evening                4678 commits        ██████████░░░░░░░░░░░░░░░   40.90 % 
-🌙 Night                  3603 commits        ████████░░░░░░░░░░░░░░░░░   31.50 % 
+🌞 Morning                1024 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+🌆 Daytime                2355 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌃 Evening                4990 commits        ██████████░░░░░░░░░░░░░░░   40.68 % 
+🌙 Night                  3897 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
 ```
 
 
@@ -43,34 +43,34 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 148 hrs 47 mins     ███████████████████████░░   90.11 % 
-Other                    8 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-JSON                     5 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-TypeScript               1 hr 28 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 138 hrs 18 mins     ██████████████████████░░░   89.43 % 
+Other                    8 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+JSON                     4 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TypeScript               1 hr 28 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Go                       47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 164 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 154 hrs 32 mins (100.0%)
 
-✍️ 6,329 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,338 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,310,301 Input Tokens, 546,914 Output Tokens
+🔤 18,198,919 Input Tokens, 1,176,046 Output Tokens
 
-💵 $561.26 Estimated AI Cost This Week
+💵 $693.99 Estimated AI Cost This Week
 
-🧠 468 AI Sessions, 2303 AI Prompts
+🧠 455 AI Sessions, 2202 AI Prompts
 
-GPT                      8,803 lines         █████████████████████████   100.00 % 
+GPT                      13,856 lines        █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,661 characters per prompt
+📚 Verbose Prompter — average 6,967 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -78,15 +78,15 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 17/09/2026 04:06:44 UTC
+ Last Updated on 18/09/2026 03:52:43 UTC
 <!--END_SECTION:waka-->
