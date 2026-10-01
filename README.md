@@ -23,19 +23,19 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C476%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C478%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C530%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C534%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.18%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1451 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-🌆 Daytime                3277 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-🌃 Evening                6732 commits        ██████████░░░░░░░░░░░░░░░   39.91 % 
-🌙 Night                  5407 commits        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+🌞 Morning                1504 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+🌆 Daytime                3388 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+🌃 Evening                6926 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌙 Night                  5557 commits        ████████░░░░░░░░░░░░░░░░░   31.98 % 
 ```
 
 
@@ -43,34 +43,34 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 79 hrs 31 mins      ███████████████░░░░░░░░░░   59.93 % 
-TypeScript               18 hrs 4 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-JavaScript               17 hrs 31 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Other                    14 hrs 53 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Bash                     1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Markdown                 60 hrs 38 mins      █████████████░░░░░░░░░░░░   53.80 % 
+TypeScript               18 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+JavaScript               17 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Other                    14 hrs 41 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 132 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 112 hrs 43 mins (100.0%)
 
-✍️ 31,839 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 30,703 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 132,680,882 Input Tokens, 12,148,089 Output Tokens
+🔤 120,558,604 Input Tokens, 8,867,477 Output Tokens
 
-💵 $3883.17 Estimated AI Cost This Week
+💵 $2887.88 Estimated AI Cost This Week
 
-🧠 3583 AI Sessions, 4250 AI Prompts
+🧠 3442 AI Sessions, 4050 AI Prompts
 
-GPT                      17,710 lines        ██████████████░░░░░░░░░░░   54.36 % 
-Opus                     8,306 lines         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Fable                    6,562 lines         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+GPT                      16,676 lines        █████████████░░░░░░░░░░░░   53.05 % 
+Opus                     8,198 lines         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+Fable                    6,562 lines         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
+📝 Concise Prompter — average 83 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -88,5 +88,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 04:43:35 UTC
+ Last Updated on 01/10/2026 04:55:53 UTC
 <!--END_SECTION:waka-->
