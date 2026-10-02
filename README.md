@@ -23,19 +23,19 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C478%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C479%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C534%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C538%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.43%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1504 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-🌆 Daytime                3388 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-🌃 Evening                6926 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
-🌙 Night                  5557 commits        ████████░░░░░░░░░░░░░░░░░   31.98 % 
+🌞 Morning                1645 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+🌆 Daytime                3657 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌃 Evening                7437 commits        ██████████░░░░░░░░░░░░░░░   39.78 % 
+🌙 Night                  5958 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
 ```
 
 
@@ -43,35 +43,35 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 60 hrs 38 mins      █████████████░░░░░░░░░░░░   53.80 % 
-TypeScript               18 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-JavaScript               17 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Other                    14 hrs 41 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 47 hrs 35 mins      █████████████░░░░░░░░░░░░   51.28 % 
+JavaScript               15 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+TypeScript               13 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Other                    12 hrs 52 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Python                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 112 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 92 hrs 48 mins (100.0%)
 
-✍️ 30,703 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 25,337 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 120,558,604 Input Tokens, 8,867,477 Output Tokens
+🔤 112,321,906 Input Tokens, 7,191,703 Output Tokens
 
-💵 $2887.88 Estimated AI Cost This Week
+💵 $2310.73 Estimated AI Cost This Week
 
-🧠 3442 AI Sessions, 4050 AI Prompts
+🧠 425 AI Sessions, 829 AI Prompts
 
-GPT                      16,676 lines        █████████████░░░░░░░░░░░░   53.05 % 
-Opus                     8,198 lines         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Fable                    6,562 lines         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+GPT                      12,240 lines        ████████████░░░░░░░░░░░░░   46.73 % 
+Opus                     7,389 lines         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Fable                    6,562 lines         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 384 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -88,5 +88,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 04:55:53 UTC
+ Last Updated on 02/10/2026 04:48:27 UTC
 <!--END_SECTION:waka-->
