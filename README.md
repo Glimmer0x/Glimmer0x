@@ -23,9 +23,9 @@ Feel free to ask me anything else!
 ---
 ### 🤗 My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C662%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C673%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C770%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C782%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -33,9 +33,9 @@ Feel free to ask me anything else!
 
 ```text
 🌞 Morning                1843 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-🌆 Daytime                4330 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-🌃 Evening                8259 commits        ██████████░░░░░░░░░░░░░░░   39.35 % 
-🌙 Night                  6559 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌆 Daytime                4336 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌃 Evening                8261 commits        ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌙 Night                  6560 commits        ████████░░░░░░░░░░░░░░░░░   31.24 % 
 ```
 
 
@@ -43,49 +43,50 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 36 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-TypeScript               26 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Bash                     16 hrs 38 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Other                    15 hrs 56 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-JavaScript               12 hrs 58 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Markdown                 37 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   35.26 % 
+TypeScript               28 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+Other                    16 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+JavaScript               10 hrs 39 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Bash                     7 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 117 hrs 7 mins (100.0%)
+⏱ AI Coding Time: 105 hrs 46 mins (100.0%)
 
-✍️ 57,413 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 40,167 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 256,367,404 Input Tokens, 17,101,091 Output Tokens
+🔤 136,459,601 Input Tokens, 15,035,746 Output Tokens
 
-💵 $6573.06 Estimated AI Cost This Week
+💵 $6002.75 Estimated AI Cost This Week
 
-🧠 192 AI Sessions, 506 AI Prompts
+🧠 196 AI Sessions, 544 AI Prompts
 
-Opus                     35,028 lines        ███████████████░░░░░░░░░░   60.32 % 
-GPT                      23,043 lines        ██████████░░░░░░░░░░░░░░░   39.68 % 
+GPT                      21,077 lines        █████████████░░░░░░░░░░░░   51.87 % 
+Opus                     19,556 lines        ████████████░░░░░░░░░░░░░   48.13 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 480 characters per prompt
+📄 Detailed Prompter — average 552 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
 
 
- Last Updated on 15/10/2026 03:52:23 UTC
+ Last Updated on 16/10/2026 03:48:19 UTC
 <!--END_SECTION:waka-->
