@@ -43,34 +43,33 @@ Feel free to ask me anything else!
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.67 % 
-TypeScript               4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Other                    3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Markdown                 12 hrs 24 mins      █████████████░░░░░░░░░░░░   53.15 % 
+TypeScript               3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Other                    3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+HTML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 23 mins (100.0%)
+⏱ AI Coding Time: 23 hrs 20 mins (100.0%)
 
-✍️ 9,624 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,234 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,381,933 Input Tokens, 2,123,586 Output Tokens
+🔤 10,155,323 Input Tokens, 2,039,778 Output Tokens
 
-💵 $437.88 Estimated AI Cost This Week
+💵 $337.59 Estimated AI Cost This Week
 
-🧠 108 AI Sessions, 422 AI Prompts
+🧠 100 AI Sessions, 422 AI Prompts
 
-Opus                     7,041 lines         █████████████░░░░░░░░░░░░   50.83 % 
-GPT                      6,812 lines         ████████████░░░░░░░░░░░░░   49.17 % 
+GPT                      6,748 lines         ██████████████░░░░░░░░░░░   55.00 % 
+Opus                     5,520 lines         ███████████░░░░░░░░░░░░░░   45.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 720 characters per prompt
+📄 Detailed Prompter — average 645 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -88,5 +87,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 04:22:04 UTC
+ Last Updated on 28/10/2026 04:46:15 UTC
 <!--END_SECTION:waka-->
